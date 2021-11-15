@@ -1,0 +1,36 @@
+.img{
+	position: relative;
+	background-image: url("../img/img1.jpg");
+	background-repeat: no-repeat;
+    background-size: cover;
+	height: 700px;
+}
+
+.li{
+	-webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+}
+
+#jumbotronwimg{
+	background-image: url("../img/img4.jpg");
+
+}
+
+#secondimg{
+	background-image: url("../img/img2.jpg");
+	height: 200px;
+}
+
+#thirdimg{
+	background-image: url("../img/img3.jpg");
+	height: 200px;
+}
+
+.sectionTwo{
+
+
+}
+
+.height-fix{
+	height: 200px;
+}
