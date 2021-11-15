@@ -1,3 +1,9 @@
+.whiteText{
+	color: white;
+    text-shadow: #000 2px 2px 2px;
+}
+
+
 .img{
 	position: relative;
 	background-image: url("../img/img1.jpg");
@@ -7,7 +13,7 @@
 }
 
 .li{
-	-webkit-text-stroke-width: 4px;
+	-webkit-text-stroke-width: 2px;
     -webkit-text-stroke-color: rgb(223, 14, 14);
 }
 
@@ -23,12 +29,7 @@
 
 #thirdimg{
 	background-image: url("../img/img3.jpg");
-	height: 400px;
-}
-
-.sectionTwo{
-
-
+	height: 500px;
 }
 
 .height-fix{
