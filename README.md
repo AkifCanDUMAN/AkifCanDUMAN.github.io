@@ -2,6 +2,8 @@
 Akif Can DUMAN / COM20
 >Arcane İntroduction
 
+>This site is a series that I have been following for the 10th anniversary of the game, and I have created a promotional site for it.
+
 >https://akifcanduman.github.io
 
 # Below are some screen shots from the web-page:
